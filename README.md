@@ -1,16 +1,6 @@
-# tasks
+# FLUTTER TASKS WEBSITE
 
-A new Flutter project.
+A Simple flutter based Task Manager Website built for the StackHack 1.0 Hackathon by HackerEarth
 
-## Getting Started
+You can find access the website here: https://stackhacktasks.web.app/#/
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
